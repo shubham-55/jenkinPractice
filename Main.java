@@ -7,5 +7,6 @@ public class Main{
         System.out.println(new Date());
         System.out.println("git remote add origin https://github.com/shubham-55/jenkinPractice.git");
         System.out.println("third commit");
+        System.out.println("asdrfr ,mprote file");
     }
 }
